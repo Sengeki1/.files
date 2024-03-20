@@ -1,0 +1,525 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8"
+      },
+      "expiry": 1710894124338
+    },
+    "/usr/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "efbd8272526219f390e6362dbdb9dc075fc2738181bc50ddc85665e47210cfdf3a300b9ea186f0089f83bf1262f99ebac9ade2211e344f3d3dc8e47c371dd16d"
+      },
+      "expiry": 1710894124339
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8"
+      },
+      "expiry": 1710894124348
+    },
+    "/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "efbd8272526219f390e6362dbdb9dc075fc2738181bc50ddc85665e47210cfdf3a300b9ea186f0089f83bf1262f99ebac9ade2211e344f3d3dc8e47c371dd16d"
+      },
+      "expiry": 1710894124337
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "efbd8272526219f390e6362dbdb9dc075fc2738181bc50ddc85665e47210cfdf3a300b9ea186f0089f83bf1262f99ebac9ade2211e344f3d3dc8e47c371dd16d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "efbd8272526219f390e6362dbdb9dc075fc2738181bc50ddc85665e47210cfdf3a300b9ea186f0089f83bf1262f99ebac9ade2211e344f3d3dc8e47c371dd16d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "efbd8272526219f390e6362dbdb9dc075fc2738181bc50ddc85665e47210cfdf3a300b9ea186f0089f83bf1262f99ebac9ade2211e344f3d3dc8e47c371dd16d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "efbd8272526219f390e6362dbdb9dc075fc2738181bc50ddc85665e47210cfdf3a300b9ea186f0089f83bf1262f99ebac9ade2211e344f3d3dc8e47c371dd16d",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.12 64-bit",
+        "hash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8-3a9ed83091fa50150aa1ce06bf91bbb4"
+      },
+      "expiry": 1710894124352
+    },
+    "/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.12 64-bit",
+        "hash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8-8291289aeeec1425c1288010b91fe7d7"
+      },
+      "expiry": 1710778505209
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.12-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.12-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+          "type": "Unknown",
+          "cachedEntry": true,
+          "displayName": "Python 3.10.12 64-bit",
+          "__store": true
+        }
+      },
+      "expiry": 1710894124342
+    },
+    "/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.12-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.12-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+          "type": "Unknown",
+          "displayName": "Python 3.10.12 64-bit"
+        }
+      },
+      "expiry": 1710778505218
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+      "type": "Unknown",
+      "cachedEntry": true
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+      "type": "Unknown"
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.10.12 64-bit"
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+      "type": "Unknown",
+      "displayName": "Python 3.10.12 64-bit"
+    },
+    "ProposeLSBanner": false
+  },
+  "coc-python|/home/sengeki/.config/nvim": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:55fb0978eeb0d44424240f8935e70271": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:55fb0978eeb0d44424240f8935e70271": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/sengeki/.config/nvim": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b775fb5b82c22fdfba77e3adab6f22e40c2f72a45c3379f245a9ec14ef3598209ada7d8e53a870aa9e0ff96616f363977e82399c000be27a26f43e978f0954b8",
+      "type": "Unknown"
+    }
+  },
+  "coc-python|/home/sengeki": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  }
+}
